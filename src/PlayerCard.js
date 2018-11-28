@@ -5,3 +5,4 @@ const PlayerCard = (props) => {
     <div className="playercard"</div>
   )
 }
+export default PlayerCard;
